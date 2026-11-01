@@ -9,7 +9,7 @@ cask "dsh-go-mac" do
   homepage "https://billwgong.github.io/dsh-go-mac/"
 
   depends_on arch: :arm64
-  depends_on macos: ">= :monterey"
+  depends_on macos: :monterey
 
   app "dsh_go.app", target: "DSH Go Mac.app"
 
