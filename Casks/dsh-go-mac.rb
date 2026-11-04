@@ -6,7 +6,7 @@ cask "dsh-go-mac" do
       verified: "github.com/BillWGong/dsh-go-mac/"
   name "DSH Go Mac"
   desc "Native macOS client for DeepSeek Harness"
-  homepage "https://billwgong.github.io/dsh-go-mac/"
+  homepage "https://dsh.billw.top/"
 
   depends_on arch: :arm64
   depends_on macos: :monterey
