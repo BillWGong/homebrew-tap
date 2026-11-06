@@ -1,6 +1,6 @@
 cask "dsh-go-mac" do
-  version "1.0.19"
-  sha256 "14b8c56a7d01fd3df69965d0d35ed9eab169af265489aff02e0db9f096b83f87"
+  version "1.0.20"
+  sha256 "bd147b3a250290bfe85fbeb71f907034c7ae0e91238a6883afa04446a46dd2d4"
 
   url "https://github.com/BillWGong/dsh-go-mac/releases/download/v#{version}/dsh-go-mac-#{version}-macos-arm64.dmg",
       verified: "github.com/BillWGong/dsh-go-mac/"
